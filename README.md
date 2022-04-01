@@ -25,7 +25,7 @@ The following **optional** features are implemented:
 * [X] Any HTML page elements (including game buttons) has been styled differently than in the tutorial
 * [X] Buttons use a pitch (frequency) other than the ones in the tutorial
 * [X] More than 4 functional game buttons
-* [ ] Playback speeds up on each turn
+* [X] Playback speeds up on each turn
 * [ ] Computer picks a different pattern each time the game is played
 * [ ] Player only loses after 3 mistakes (instead of on the first mistake)
 * [ ] Game button appearance change goes beyond color (e.g. add an image)
@@ -41,7 +41,8 @@ The following **additional** features are implemented:
 If you recorded multiple GIFs for all the implemented features, you can add them here:
 ![](![prework ](https://user-images.githubusercontent.com/102396976/161354031-c88124f1-594a-4881-97fa-49a0c16dda47.gif)
 )
-![](gif2-link-here)
+![](![prework 2](https://user-images.githubusercontent.com/102396976/161354210-e452f190-2682-49f0-a82d-8204f79e365f.gif)
+)
 ![](gif3-link-here)
 ![](gif4-link-here)
 
