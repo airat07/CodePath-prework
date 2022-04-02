@@ -62,7 +62,7 @@ After finishing the basic functions for the simple memory game, I wanted to make
 
 ## Interview Recording URL Link
 
-[My 5-minute Interview Recording](your-link-here)
+[My 5-minute Interview Recording](https://www.loom.com/share/104d11facfd2496dada4f47ef4fe2302)
 
 
 ## License
